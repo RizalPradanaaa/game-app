@@ -46,9 +46,8 @@ export default function StartGameScreen() {
 }
 const styles = StyleSheet.create({
   container: {
-    marginVertical: 100,
+    marginTop: 100,
     padding: 16,
-    marginHorizontal: 10,
     width: 350,
     elevation: 4,
     borderRadius: 8,
